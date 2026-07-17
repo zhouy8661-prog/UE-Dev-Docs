@@ -62,7 +62,7 @@ UE5 项目中所有 UI 贴图、图标、动效素材、切图资源的制作与
 
 - 最好可以有每个图标位于画布的位置坐标。以便于程序精准还原美术UI界面设计方案
 
-![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image1.png){width="3.1080708661417322in" height="0.7596292650918636in"} ![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image2.png){width="2.7760662729658794in" height="1.2853051181102362in"}
+![](美术_UI开发规范/media/image1.png){width="3.1080708661417322in" height="0.7596292650918636in"} ![](美术_UI开发规范/media/image2.png){width="2.7760662729658794in" height="1.2853051181102362in"}
 
 Ue用户界面素材位置匹配形式
 
@@ -170,10 +170,10 @@ Ue用户界面素材位置匹配形式
 
 Eg.ue内素材形式：
 
-![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image3.png){width="6.268055555555556in" height="1.0958333333333334in"}
+![](美术_UI开发规范/media/image3.png){width="6.268055555555556in" height="1.0958333333333334in"}
 
-![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image4.png){width="6.268055555555556in" height="4.15625in"}
+![](美术_UI开发规范/media/image4.png){width="6.268055555555556in" height="4.15625in"}
 
-![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image5.png){width="6.268055555555556in" height="3.310416666666667in"}
+![](美术_UI开发规范/media/image5.png){width="6.268055555555556in" height="3.310416666666667in"}
 
-![](d:/A_ue工作纪要/技术策划案/md_output/项目开发规范/美术_UI开发规范/media/image6.png){width="6.268055555555556in" height="4.1in"}
+![](美术_UI开发规范/media/image6.png){width="6.268055555555556in" height="4.1in"}
